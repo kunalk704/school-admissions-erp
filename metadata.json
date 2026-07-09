@@ -1,0 +1,8 @@
+{
+  "name": "Remix: School Admissions ERP",
+  "description": "A premium school admissions dashboard for school leadership and principals, designed for high situational awareness and executive calm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
